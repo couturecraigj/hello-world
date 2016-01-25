@@ -1,3 +1,3 @@
 # hello-world
 
-Information about myself
+Information about myself and corp
